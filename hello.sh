@@ -1,1 +1,1 @@
-echo "Hello world from hello.sh. How are you? Hello again !"
+echo "Hello world from hello.sh. How are you? Hello again!"
